@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="realizar pedido para mascota" skipped="0" tests="1" time="4.05" timestamp="2021-08-20 06:59:23"><testcase name="hacer pedido para mascota"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+net.serenitybdd.rest.SerenityRest.lastResponse(SerenityRest.java:63)&#13;
+net.serenitybdd.rest.SerenityRest.then(SerenityRest.java:58)&#13;
+oi.swagger.petstore.stepsdefinitions.HacerPedidoStepDefinition.validaQueElCodigoDeEstadoSea(HacerPedidoStepDefinition.java:52)&#13;
+✽.valida que el codigo de estado sea(src/test/resources/features/hacerpedido.feature:10)&#13;
+</system-err></testcase></testsuite>
